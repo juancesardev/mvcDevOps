@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mn5tL4snvaGw1X4nqjTSsMyznCQcvMTjBfWeS/A781FqX/EKkT1TcjEh9IsnpJus8WrvNGuHAqt6ATfT6iItJw==",
+  "success": true,
+  "projectFilePath": "D:\\ANONYMOUS\\GITHUB\\Dvelopment\\DevOps\\DevOps1\\DevOps1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cecur\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\cecur\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\cecur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\cecur\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.16\\microsoft.netcore.app.host.win-x86.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
